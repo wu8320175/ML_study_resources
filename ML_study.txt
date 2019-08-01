@@ -10,3 +10,5 @@ BP神经网络（回归/吴恩达视频是分类）：https://zhuanlan.zhihu.com/p/24801814
 				https://www.jianshu.com/p/964345dddb70
 反向传播：https://blog.csdn.net/xuan_liu123/article/details/83660316
 机器学习概率统计一些知识：https://www.cnblogs.com/jialin0421/p/8988834.html
+
+南瓜书:https://github.com/datawhalechina/pumpkin-book
