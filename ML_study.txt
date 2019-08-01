@@ -1,0 +1,12 @@
+机器学习实战：
+https://blog.csdn.net/c406495762/column/info/16415
+决策树：
+https://blog.csdn.net/tugangkai/article/details/82844368
+Adaboost:
+https://zhuanlan.zhihu.com/p/27126737
+SVM:
+https://blog.csdn.net/DP323/article/details/80535863
+BP神经网络（回归/吴恩达视频是分类）：https://zhuanlan.zhihu.com/p/24801814
+				https://www.jianshu.com/p/964345dddb70
+反向传播：https://blog.csdn.net/xuan_liu123/article/details/83660316
+机器学习概率统计一些知识：https://www.cnblogs.com/jialin0421/p/8988834.html
